@@ -7,7 +7,7 @@ Develop a machine learning model that can accurately predict relevant categories
 ### Dataset Description:
 
 - Collection of over 10K articles from a news service, partitioned into training and test sets. 
-- Each document belongs to one or more categories (there are 90 categories overall). 
+- Each article belongs to one or more categories (there are 90 categories overall). 
 
 ## Tasks:
 
